@@ -2,7 +2,7 @@ import React from "react";
 import { AppRouter } from "../approutes/approutes";
 import { Aside } from "../features/components/aside/aside";
 import { Logo } from "../features/components/logo/logo";
-import "./app.css";
+import "./App.css";
 
 export function App() {
   return (
